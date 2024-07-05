@@ -29,7 +29,7 @@ export const logo = <img src={`${LOGO_URL}`} alt="Logo" className="h-[75px] w-[7
 export const APP_NAME = 'Disastrous Catastrophic Necromancer';
 export const NavbarName = "DC Necromancer";
 
-export const APP_DESCRIPTION = `Read ${MANGA_NAME} manga online at ${DOMAIN}. The story follows a powerful necromancer whose relentless pursuit of immortality unleashes devastating consequences. As he resurrects the dead, chaos ensues, threatening to destroy everything he holds dear. Now, he must confront the fallout of his actions before it's too late.`;
+export const APP_DESCRIPTION = `Read ${MANGA_NAME} manhwa or manga all chapters online. The story follows a powerful necromancer whose relentless pursuit of immortality unleashes devastating consequences. As he resurrects the dead, chaos ensues, threatening to destroy everything he holds dear. Now, he must confront the fallout of his actions before it's too late.`;
 
 export const DISQUS_SHORTNAME = "my-cms-7";
 
